@@ -1,8 +1,10 @@
 # DuskChineseChess 瞎子摸象棋
 
-[Play](https://orewachuuni.itch.io/dusk-chinese-chess) by itch.io
+開始玩: [itch.io](https://orewachuuni.itch.io/dusk-chinese-chess)
 
-[Devlog](https://chalk-wedge-e02.notion.site/1f7e7955e23e437b81c25c53f79bfd7c) by Notion
+試玩影片: [Youtube](https://youtu.be/4s749YJeoGo)
+
+Devlog: [Notion](https://chalk-wedge-e02.notion.site/1f7e7955e23e437b81c25c53f79bfd7c)
 
 ## 備註
 
